@@ -12,3 +12,4 @@ C:\Users\Chojny\Desktop\Szkoła\Studia\GitHub\PPZO-Zadanie-3\obj\Debug\net8.0\re
 C:\Users\Chojny\Desktop\Szkoła\Studia\GitHub\PPZO-Zadanie-3\obj\Debug\net8.0\PPZO-Zadanie-3.pdb
 C:\Users\Chojny\Desktop\Szkoła\Studia\GitHub\PPZO-Zadanie-3\obj\Debug\net8.0\PPZO-Zadanie-3.genruntimeconfig.cache
 C:\Users\Chojny\Desktop\Szkoła\Studia\GitHub\PPZO-Zadanie-3\obj\Debug\net8.0\ref\PPZO-Zadanie-3.dll
+C:\Users\Chojny\Desktop\Szkoła\Studia\GitHub\PPZO-Zadanie-3\obj\Debug\net8.0\PPZO-Zadanie-3.sourcelink.json

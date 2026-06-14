@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPZO-Zadanie-3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab0a52d18ac0a5c585532cb4ac6192591dfc00d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPZO-Zadanie-3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPZO-Zadanie-3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

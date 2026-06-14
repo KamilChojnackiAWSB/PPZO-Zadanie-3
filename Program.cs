@@ -92,11 +92,27 @@ class Parking
         return limit - miejsca[strefa].Count;
     }
 
+
     public void DodajPojazd(Pojazd p, string miejsce)
     {
+        foreach (var strefa in miejsca)
+        {
+            if (strefa.Value.Exists(x => x.NumerRejestracyjny == p.NumerRejestracyjny))
+            {
+                Console.WriteLine(" Pojazd o tym numerze rej już istnieje! Dodawanie przerwane");
+
+                Console.WriteLine("\n Wciśnij dowolny klawisz aby kontynuować ...");
+                Console.ReadKey();
+                return;
+            }
+        }
+
         if (miejsca[miejsce].Count >= limit)
         {
             Console.WriteLine(" Brak wolnych miejsc!");
+
+            Console.WriteLine("\n Wciśnij dowolny klawisz aby kontynuować ...");
+            Console.ReadKey();
             return;
         }
 
